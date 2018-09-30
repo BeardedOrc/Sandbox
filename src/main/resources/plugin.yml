@@ -1,0 +1,12 @@
+name: Sandbox
+version: ${project.version}
+main: me.beardedorc.sandbox.Sandbox
+authors: [defyled]
+description: testing sandbox
+commands:
+  test:
+    description: test command
+    usage: /test
+  test2:
+    description: test2 command
+    usage: /test2
